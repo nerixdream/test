@@ -36,7 +36,7 @@ body {
 }
 
 .btn {
-    background-color: rgba(220, 20, 60, 1);
+    background-color: rgba(89, 0, 255, 1);
     border: none;
     outline: none;
     padding: 15px 35px;
@@ -47,7 +47,7 @@ body {
 }
 
 .btn:hover {
-    background-color: rgba(220, 20, 60, 0.8);
+    background-color: rgba(89, 0, 255, 0.8);
 }
 
 .mensaje-contenedor {
@@ -55,7 +55,7 @@ body {
 }
 
 .mensaje-contenedor ion-icon {
-    color: crimson;
+    color: rgba(89, 0, 255, 1);
     font-size: 1.5rem;
 }
 
